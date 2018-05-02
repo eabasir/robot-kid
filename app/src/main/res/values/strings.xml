@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Robot Kid</string>
+
+    <string name="activity_demo_title">نمایش کارایی</string>
+    <string name="activity_education_title">آموزش</string>
+    <string name="activity_about_title">درباره ما</string>
+
+    <string name="drawer_header_text">Robot Kid</string>
+    <string name="nav_item_demo">نمایش کارایی</string>
+    <string name="nav_item_education">آموزش</string>
+    <string name="nav_item_about">درباره ما</string>
+
+    <string name="app_title_short">Robot Kid</string>
+
+
+</resources>
